@@ -4,12 +4,24 @@
 
 /* the footer  */
 
-table tbody a{
-    text-decoration: none;
-    color: lightslategray;
+div ul {
+    list-style: none;
 }
-span a {
+div ul li a{
     text-decoration: none;
-    color: lightslategray;
-    font-size: 0.8em;
+    color: rgb(134, 137, 141);
+    text-decoration: none;
+    font-size: 0.7em;
+    
 }
+div ul li a:hover{
+    color: black;
+    border-bottom: 2px solid black;
+}
+div span a{
+    text-decoration: none;
+    font-size: 0.7em;
+    color: grey;
+
+}
+
