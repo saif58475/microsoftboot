@@ -1,0 +1,15 @@
+/* home */
+
+
+
+/* the footer  */
+
+table tbody a{
+    text-decoration: none;
+    color: lightslategray;
+}
+span a {
+    text-decoration: none;
+    color: lightslategray;
+    font-size: 0.8em;
+}
